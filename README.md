@@ -10,6 +10,9 @@
   <li>
     Studying at Virgina Tech <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/1200px-Virginia_Tech_Hokies_logo.svg.png" width="45">
   </li>
+  <li>
+    I like fish <a href="https://www.pnwbettas.com/"><img src="https://clipart-library.com/newhp/halfmoon-betta-fish-clipart-md.png" width="40"></a>
+  </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
