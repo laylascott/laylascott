@@ -6,10 +6,10 @@
     My name is Layla
   </li>
   <li>
-    I am a 3rd yr Computer Science student <a href="vt.cs.edu"><img src="https://i.ibb.co/KKNxQCS/pngaaa-com-2826660.png" width="30"> </a>
+    I am a 3rd yr Computer Science student <a href="cs.vt.edu"><img src="https://i.ibb.co/KKNxQCS/pngaaa-com-2826660.png" width="30"> </a>
   </li>
   <li>
-    Studying at Virgina Tech <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/1200px-Virginia_Tech_Hokies_logo.svg.png" width="45">
+    Studying at Virgina Tech <a href="vt.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/1200px-Virginia_Tech_Hokies_logo.svg.png" width="45"></a>
   </li>
   <li>
     I like fish <a href="https://www.pnwbettas.com/"><img src="https://clipart-library.com/newhp/halfmoon-betta-fish-clipart-md.png" width="40"></a>
