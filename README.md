@@ -12,7 +12,7 @@
     Studying at Virgina Tech <a href="https://vt.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/1200px-Virginia_Tech_Hokies_logo.svg.png" width="45"></a>
   </li>
   <li>
-    I like fish <a href="https://www.pnwbettas.com/"><img src="https://clipart-library.com/newhp/halfmoon-betta-fish-clipart-md.png" width="40"></a>
+    I like fish <a href="[https://www.pnwbettas.com/](https://www.pnwbettas.com/collections/live-fish)"><img src="https://clipart-library.com/newhp/halfmoon-betta-fish-clipart-md.png" width="40"></a>
   </li>
 </ul>
 <h2></h2>
