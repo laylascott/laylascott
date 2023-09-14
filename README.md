@@ -26,6 +26,9 @@
 <h4 align="left">Tools:</h4>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="andriod studio" width="40" height="40"></a>
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://eclipseide.org/favicon.ico" alt="eclipse" width="40" height="40"></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/favicon.ico" alt="VScode" width="40" height="40"></a>
 
 
 <h2></h2>
