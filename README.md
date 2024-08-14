@@ -6,7 +6,7 @@
     My name is Layla
   </li>
   <li>
-    I am a 3rd yr Computer Science student <a href="https://cs.vt.edu"><img src="https://i.ibb.co/KKNxQCS/pngaaa-com-2826660.png" width="30"> </a>
+    I am a 4th yr Computer Science student <a href="https://cs.vt.edu"><img src="https://i.ibb.co/KKNxQCS/pngaaa-com-2826660.png" width="30"> </a>
   </li>
   <li>
     Studying at Virgina Tech <a href="https://vt.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Virginia_Tech_Hokies_logo.svg/1200px-Virginia_Tech_Hokies_logo.svg.png" width="45"></a>
